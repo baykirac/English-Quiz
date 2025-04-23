@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kirac\\OneDrive\\Desktop\\Projelerim\\WEB\\English Test\\english-test-backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7524A8C2-7568-498F-8463-7F896DE298B4}|WordApi\\WordApi.csproj|c:\\users\\kirac\\onedrive\\desktop\\projelerim\\web\\english test\\english-test-backend\\wordapi\\controllers\\wordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7524A8C2-7568-498F-8463-7F896DE298B4}|WordApi\\WordApi.csproj|solutionrelative:wordapi\\controllers\\wordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7524A8C2-7568-498F-8463-7F896DE298B4}|WordApi\\WordApi.csproj|c:\\users\\kirac\\onedrive\\desktop\\projelerim\\web\\english test\\english-test-backend\\wordapi\\application\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7524A8C2-7568-498F-8463-7F896DE298B4}|WordApi\\WordApi.csproj|solutionrelative:wordapi\\application\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7524A8C2-7568-498F-8463-7F896DE298B4}|WordApi\\WordApi.csproj|c:\\users\\kirac\\onedrive\\desktop\\projelerim\\web\\english test\\english-test-backend\\wordapi\\infrastructure\\repository\\interfaces\\iwordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7524A8C2-7568-498F-8463-7F896DE298B4}|WordApi\\WordApi.csproj|solutionrelative:wordapi\\infrastructure\\repository\\interfaces\\iwordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7524A8C2-7568-498F-8463-7F896DE298B4}|WordApi\\WordApi.csproj|c:\\users\\kirac\\onedrive\\desktop\\projelerim\\web\\english test\\english-test-backend\\wordapi\\infrastructure\\repository\\wordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7524A8C2-7568-498F-8463-7F896DE298B4}|WordApi\\WordApi.csproj|solutionrelative:wordapi\\infrastructure\\repository\\wordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7524A8C2-7568-498F-8463-7F896DE298B4}|WordApi\\WordApi.csproj|c:\\users\\kirac\\onedrive\\desktop\\projelerim\\web\\english test\\english-test-backend\\wordapi\\domain\\resources\\returncodes.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{7524A8C2-7568-498F-8463-7F896DE298B4}|WordApi\\WordApi.csproj|solutionrelative:wordapi\\domain\\resources\\returncodes.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7524A8C2-7568-498F-8463-7F896DE298B4}|WordApi\\WordApi.csproj|c:\\users\\kirac\\onedrive\\desktop\\projelerim\\web\\english test\\english-test-backend\\wordapi\\domain\\entities\\words.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7524A8C2-7568-498F-8463-7F896DE298B4}|WordApi\\WordApi.csproj|solutionrelative:wordapi\\domain\\entities\\words.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 325,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReturnCodes.resx",
+              "DocumentMoniker": "C:\\Users\\kirac\\OneDrive\\Desktop\\Projelerim\\WEB\\English Test\\english-test-backend\\WordApi\\Domain\\Resources\\ReturnCodes.resx",
+              "RelativeDocumentMoniker": "WordApi\\Domain\\Resources\\ReturnCodes.resx",
+              "ToolTip": "C:\\Users\\kirac\\OneDrive\\Desktop\\Projelerim\\WEB\\English Test\\english-test-backend\\WordApi\\Domain\\Resources\\ReturnCodes.resx",
+              "RelativeToolTip": "WordApi\\Domain\\Resources\\ReturnCodes.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-23T19:52:36.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Words.cs",
+              "DocumentMoniker": "C:\\Users\\kirac\\OneDrive\\Desktop\\Projelerim\\WEB\\English Test\\english-test-backend\\WordApi\\Domain\\Entities\\Words.cs",
+              "RelativeDocumentMoniker": "WordApi\\Domain\\Entities\\Words.cs",
+              "ToolTip": "C:\\Users\\kirac\\OneDrive\\Desktop\\Projelerim\\WEB\\English Test\\english-test-backend\\WordApi\\Domain\\Entities\\Words.cs",
+              "RelativeToolTip": "WordApi\\Domain\\Entities\\Words.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:44:17.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kirac\\OneDrive\\Desktop\\Projelerim\\WEB\\English Test\\english-test-backend\\WordApi\\Infrastructure\\Repository\\WordRepository.cs",
+              "RelativeDocumentMoniker": "WordApi\\Infrastructure\\Repository\\WordRepository.cs",
+              "ToolTip": "C:\\Users\\kirac\\OneDrive\\Desktop\\Projelerim\\WEB\\English Test\\english-test-backend\\WordApi\\Infrastructure\\Repository\\WordRepository.cs",
+              "RelativeToolTip": "WordApi\\Infrastructure\\Repository\\WordRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wCYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:42:44.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kirac\\OneDrive\\Desktop\\Projelerim\\WEB\\English Test\\english-test-backend\\WordApi\\Infrastructure\\Repository\\Interfaces\\IWordRepository.cs",
+              "RelativeDocumentMoniker": "WordApi\\Infrastructure\\Repository\\Interfaces\\IWordRepository.cs",
+              "ToolTip": "C:\\Users\\kirac\\OneDrive\\Desktop\\Projelerim\\WEB\\English Test\\english-test-backend\\WordApi\\Infrastructure\\Repository\\Interfaces\\IWordRepository.cs",
+              "RelativeToolTip": "WordApi\\Infrastructure\\Repository\\Interfaces\\IWordRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:42:34.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordService.cs",
+              "DocumentMoniker": "C:\\Users\\kirac\\OneDrive\\Desktop\\Projelerim\\WEB\\English Test\\english-test-backend\\WordApi\\Application\\WordService.cs",
+              "RelativeDocumentMoniker": "WordApi\\Application\\WordService.cs",
+              "ToolTip": "C:\\Users\\kirac\\OneDrive\\Desktop\\Projelerim\\WEB\\English Test\\english-test-backend\\WordApi\\Application\\WordService.cs",
+              "RelativeToolTip": "WordApi\\Application\\WordService.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAiwFkAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:40:59.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WordController.cs",
+              "DocumentMoniker": "C:\\Users\\kirac\\OneDrive\\Desktop\\Projelerim\\WEB\\English Test\\english-test-backend\\WordApi\\Controllers\\WordController.cs",
+              "RelativeDocumentMoniker": "WordApi\\Controllers\\WordController.cs",
+              "ToolTip": "C:\\Users\\kirac\\OneDrive\\Desktop\\Projelerim\\WEB\\English Test\\english-test-backend\\WordApi\\Controllers\\WordController.cs",
+              "RelativeToolTip": "WordApi\\Controllers\\WordController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:40:39.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 75,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

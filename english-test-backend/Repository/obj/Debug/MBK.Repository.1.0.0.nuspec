@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MBK.Repository</id>
+    <version>1.0.0</version>
+    <authors>MBK</authors>
+    <description>Generic Repo</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.EntityFrameworkCore" version="9.0.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\kirac\OneDrive\Desktop\Projelerim\WEB\English Test\english-test-backend\Repository\bin\Debug\net8.0\Repository.dll" target="lib\net8.0\Repository.dll" />
+  </files>
+</package>
