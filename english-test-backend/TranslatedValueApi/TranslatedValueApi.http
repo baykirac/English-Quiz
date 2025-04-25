@@ -1,0 +1,6 @@
+@TranslatedValueApi_HostAddress = http://localhost:5101
+
+GET {{TranslatedValueApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -158,3 +158,4 @@ C:\Users\kirac\OneDrive\Desktop\Projelerim\WEB\English Test\english-test-backend
 C:\Users\kirac\OneDrive\Desktop\Projelerim\WEB\English Test\english-test-backend\WordApi\obj\Debug\net8.0\ref\WordApi.dll
 C:\Users\kirac\OneDrive\Desktop\Projelerim\WEB\English Test\english-test-backend\WordApi\obj\Debug\net8.0\WordApi.Domain.Resources.ReturnCodes.resources
 C:\Users\kirac\OneDrive\Desktop\Projelerim\WEB\English Test\english-test-backend\WordApi\obj\Debug\net8.0\WordApi.csproj.GenerateResource.cache
+C:\Users\kirac\OneDrive\Desktop\Projelerim\WEB\English Test\english-test-backend\WordApi\obj\Debug\net8.0\WordApi.sourcelink.json

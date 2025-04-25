@@ -1,19 +1,21 @@
+using Microsoft.AspNetCore.Cors.Infrastructure;
 using Microsoft.EntityFrameworkCore;
-using WordApi.Application;
-using WordApi.Application.Interfaces;
-using WordApi.Infrastructure;
-using WordApi.Infrastructure.Repository;
-using WordApi.Infrastructure.Repository.Interfaces;
+using TranslatedValueApi.Application;
+using TranslatedValueApi.Application.Interfaces;
+using TranslatedValueApi.Infrastructure;
+using TranslatedValueApi.Infrastructure.Repository;
+using TranslatedValueApi.Infrastructure.Repository.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
+
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<AppDbContext>(options => options.UseNpgsql(builder.Configuration.GetConnectionString("PostgreSQLConnection")));
-builder.Services.AddScoped<IWordRepository, WordRepository>();
-builder.Services.AddScoped<IWordService, WordService>();
+builder.Services.AddScoped<ITranslatedValueRepository, TranslatedValueRepository>();
+builder.Services.AddScoped<ITranslationService, TranslationService>();
 
 builder.Services.AddCors(options =>
 {

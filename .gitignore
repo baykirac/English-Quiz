@@ -1,2 +1,45 @@
-# Visual Studio geçici dosyaları
+# IDE / Editor klasörleri
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
+
+# Log dosyaları
+*.log
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Dotnet
+*.dll
+*.exe
+*.pdb
+*.app
+*.so
+*.dylib
+*.db
+*.db-shm
+*.db-wal
+*.log
+obj/
+bin/
+project.lock.json
+project.fragment.lock.json
+
+# Paket yöneticileri
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+.env
+
 .vs/

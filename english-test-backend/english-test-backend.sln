@@ -5,6 +5,10 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordApi", "WordApi\WordApi.csproj", "{7524A8C2-7568-498F-8463-7F896DE298B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranslatedValueApi", "TranslatedValueApi\TranslatedValueApi.csproj", "{FF89CEC5-F3A9-4FD7-85E9-8B64BFF5AEED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GateWayApi", "GateWayApi\GateWayApi.csproj", "{3AFC5D23-52C9-4E5C-84D1-C8E4DB3157F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{7524A8C2-7568-498F-8463-7F896DE298B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7524A8C2-7568-498F-8463-7F896DE298B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7524A8C2-7568-498F-8463-7F896DE298B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF89CEC5-F3A9-4FD7-85E9-8B64BFF5AEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF89CEC5-F3A9-4FD7-85E9-8B64BFF5AEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF89CEC5-F3A9-4FD7-85E9-8B64BFF5AEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF89CEC5-F3A9-4FD7-85E9-8B64BFF5AEED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AFC5D23-52C9-4E5C-84D1-C8E4DB3157F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AFC5D23-52C9-4E5C-84D1-C8E4DB3157F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AFC5D23-52C9-4E5C-84D1-C8E4DB3157F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AFC5D23-52C9-4E5C-84D1-C8E4DB3157F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
