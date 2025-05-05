@@ -43,3 +43,4 @@ apphost.exe
 # Backup files
 *~ 
 *.bak
+/english-test-backend/.vs/english-test-backend/v17/DocumentLayout.json
