@@ -1,45 +1,45 @@
-# IDE / Editor klasörleri
-.idea/
-.vscode/
+# User-specific files
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
+.vs/
 
-# OS dosyaları
-.DS_Store
-Thumbs.db
-
-# Log dosyaları
-*.log
-
-# Node.js
-node_modules/
-
-# Python
-__pycache__/
-*.py[cod]
-
-# Dotnet
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
 *.dll
 *.exe
 *.pdb
-*.app
-*.so
-*.dylib
-*.db
-*.db-shm
-*.db-wal
+*.cache
+
+# ASP.NET specific
+apphost.exe
+
+# Others
 *.log
-obj/
-bin/
-project.lock.json
-project.fragment.lock.json
+*.json
 
-# Paket yöneticileri
-package-lock.json
-pnpm-lock.yaml
-yarn.lock
-.env
+# JetBrains Rider
+.idea/
 
-.vs/
+# Visual Studio Code
+.vscode/
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+.project.assets.json
+*.nuget.props
+*.nuget.targets
+
+# Backup files
+*~ 
+*.bak
