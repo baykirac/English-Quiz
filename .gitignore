@@ -44,3 +44,8 @@ apphost.exe
 *~ 
 *.bak
 /english-test-backend/.vs/english-test-backend/v17/DocumentLayout.json
+english-test-backend/.vs/english-test-backend/DesignTimeBuild/.dtbcache.v2
+english-test-backend/.vs/english-test-backend/v17/.futdcache.v2
+english-test-backend/.vs/ProjectEvaluation/english-test-backend.metadata.v8.bin
+english-test-backend/.vs/ProjectEvaluation/english-test-backend.projects.v8.bin
+english-test-backend/.vs/ProjectEvaluation/english-test-backend.strings.v8.bin
